@@ -1,0 +1,81 @@
+{
+	"id": "2352545a-2b1e-4590-c26e-066ed2eb1ad8",
+	"author": "",
+	"widgets": [
+		{
+			"id": "FilterComponent",
+			"name": "Date Filter Component",
+			"description": "Global Date Filter Component",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "OccupancyWidget",
+			"name": "Occupancy Widget",
+			"description": "Occupancy Widget",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "EnergyEfficiency",
+			"name": "Energy Efficiency",
+			"description": "Energy Efficiency",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "MaintenanceCompliance",
+			"name": "Maintenance Compliance",
+			"description": "Maintenance Compliance",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "SecurityIncidents",
+			"name": "Security Incidents",
+			"description": "Security Incidents",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "AssetHealthStatus",
+			"name": "Asset Health Status",
+			"description": "Asset Health Status",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "TenantSentiments",
+			"name": "Tenant Sentiments",
+			"description": "Tenant Sentiments Widgets",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "AlertInsights",
+			"name": "Alert Insights",
+			"description": "Alert Insights",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		}
+	],
+	"sidebarLinks": [],
+	"uis": [],
+	"menuItems": []
+}

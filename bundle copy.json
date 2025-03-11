@@ -1,0 +1,81 @@
+{
+	"id": "2352545a-2b1e-4590-c26e-066ed2eb1ad8",
+	"author": "",
+	"widgets": [
+		{
+			"id": "FilterComponent",
+			"name": "Date Filter Component",
+			"description": "Global Date Filter Component",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "AssetCategoryCount",
+			"name": "Asset Category Count Widget",
+			"description": "A sample widget",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "RealtimeSensorData",
+			"name": "Realtime Sensor Data Widget",
+			"description": "Realtime Building Sensor Data Widget",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "BuildingHealthScore",
+			"name": "Building Health Score",
+			"description": "Building Health Score Widget",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "OccupancyWidget",
+			"name": "Occupancy Widget",
+			"description": "Occupancy Widget",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "TenantSentiments",
+			"name": "Tenant Sentiments",
+			"description": "Tenant Sentiments Widgets",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "AlertInsights",
+			"name": "Alert Insights",
+			"description": "Alert Insights",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		},
+		{
+			"id": "RealtimeSensorInsights",
+			"name": "Realtime Sensor Insights",
+			"description": "Realtime Sensor Insights",
+			"icon": "",
+			"tags": [],
+			"category": "",
+			"isTemplate": false
+		}
+	],
+	"sidebarLinks": [],
+	"uis": [],
+	"menuItems": []
+}

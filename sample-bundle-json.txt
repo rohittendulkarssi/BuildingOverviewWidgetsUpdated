@@ -1,0 +1,39 @@
+{
+    "id": "79348ef9-ec2b-41b5-f604-b920394589c8",
+    "author": "",
+    "widgets": [
+        {
+            "id": "BuildingOverviewWidgets",
+            "name": "BuildingOverviewWidgets",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+            "category":"",
+            "isTemplate": true/false // this will mark the widget as a template 
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "BuildingOverviewWidgetsLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "BuildingOverviewWidgetsLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "BuildingOverviewWidgetsLink",
+            "title": "BuildingOverviewWidgets"
+        }
+    ]
+}
